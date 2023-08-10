@@ -20,10 +20,10 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  width="30" height="30"/></a>  
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30" height="30"/></a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/></a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUA…i19Xq7z1g37k+xjfI/wBlFrDtBgNZewAAAABJRU5ErkJggg==" width="30" height="30"/></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgA…Dqqr8BGfUqFGjRn1S/wCd0S4aIaPWCQAAAABJRU5ErkJggg==" width="30" height="30"/></a>
-<a href="[https://html.com/](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoA…/3qAUkeEEftXLp8RgKPQ/CfShOWzWFcYAAAAASUVORK5CYII=" width="30" height="30"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIMA…f8QIwRrTfWLv94bJ9pf4PFkBakDmF+RsAAAAASUVORK5CYII=" width="30" height="30"/></a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" width="30" height="30"/></a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikiversity/en/e/ee/MySQL_Logo.png" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"> <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30" height="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" > <img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png" width="30" height="30"/></a>
 <p>
 
 ## Frameworks
@@ -36,13 +36,14 @@
 ## Tools:
 <p align="left">
 <a href="https://jupyter.org/try" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/></a>
-<a href="https://colab.google/" target="_blank"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAA…ukBp0PVDcPkj7BaMOGHUAAHzKKXa7JgzjAAAAAElFTkSuQmCC
-" alt="colab" width="40" height="40"/></a> 
-<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…jYGjkVNacpzbk8ltOEYxxFYO3kOJVkyUAQBAEAQBAEAQH/9k=" alt="intellij" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…SuDh0DmTlvSaNNNsti2yAgApkIimSJ4Urd3J7dNhFhamZf//Z" alt="vscode" width="40" height="40"/></a>
+<!--  
+<a href="https://colab.google/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…o.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" width="40" height="40"/></a> 
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…J_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…J_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="vscode" width="40" height="40"/></a>
 </p>
-
-### My Hobbies and interests -
+-->
+  
+### Hobbies
 * Basket Ball
 * Art and craft 
 * Listening to Songs 
