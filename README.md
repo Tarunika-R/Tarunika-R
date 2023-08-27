@@ -29,7 +29,8 @@
 ## Frameworks
 <p align="left">
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/120px-Scikit_learn_logo_small.svg.png" alt="scikit" width="40" height="30"/></a>
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="30" height="30"/></a>
+  <!--
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="30" height="30"/></a> -->
 <a href="https://pandas.pydata.org/about/" target="_blank"> <img src="https://miro.medium.com/max/1400/0*2MYU_Qoa6xLBFTi6.png" alt="pandas" width="60" height="40"/></a>
 </p>
 
