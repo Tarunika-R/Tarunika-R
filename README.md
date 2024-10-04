@@ -1,57 +1,85 @@
-<h1 align = "center" style="display: flex; align-items: center;">HEY THERE <img src = "https://cliply.co/wp-content/uploads/2020/03/392001500_EYES_EMOJI_400px.gif" width = "50px" style = "border-radius: 150%; vertical-align: middle"></h1>
+<h1 align="center">Hello there! 👋 I'm Tarunika</h1>
+<h3 align="center">Creatively expressing my passion for technology</h3>
 
-<!-- Intro-->
-<h1 align = "center"> Hi,This is Tarunika</h1>
-<p align = "center"> Stuffing down things in my own style from that I have learnt</p>
-
-### Myself 
-* MSc. Artificial intelligence and Machine Learning student
-* Explore things that are unknown, upgrade and self implement
-* Share knowledge, make connections and colaborate
-
-### Interests
-* Problem solving and Analysis
-* Machine learning
-* Designing
-
-## Programming languages
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="c" width="30" height="30"/></a>  
-<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"  width="30" height="30"/></a>  
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30" height="30"/></a>
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/></a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" width="30" height="30"/></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikiversity/en/e/ee/MySQL_Logo.png" width="30" height="30"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"> <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="30" height="30"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" > <img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png" width="30" height="30"/></a>
-<p>
-
-## Frameworks
-<p align="left">
-<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/120px-Scikit_learn_logo_small.svg.png" alt="scikit" width="40" height="30"/></a>
-  <!--
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="tensorflow" width="30" height="30"/></a> -->
-<a href="https://pandas.pydata.org/about/" target="_blank"> <img src="https://miro.medium.com/max/1400/0*2MYU_Qoa6xLBFTi6.png" alt="pandas" width="60" height="40"/></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=tarunika-r&label=Profile%20views&color=00FFFF&style=flat" alt="tarunika-r" /> 
 </p>
 
-## Tools:
-<p align="left">
-<a href="https://jupyter.org/try" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/></a>
-<!--  
-<a href="https://colab.google/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…o.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="google colab" width="40" height="40"/></a> 
-<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…J_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thu…J_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="vscode" width="40" height="40"/></a>
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tarunika-r" alt="tarunika-r" />
+  </a> 
 </p>
--->
-  
-### Hobbies
-* Basket Ball
-* Art and craft 
-* Listening to Songs 
-* Coding and Designing
 
-### You can also find me on-
+---
 
-<a href="https://www.linkedin.com/in/tarunika-r-679022244/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
-<a href="taru253@gmail.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" width="40" height="40"/></a>
-<a href="https://www.instagram.com/taru_0303/?next=%2F" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram" width="40" height="40"/></a>
+### 🛠️ My Latest Creations
+- [ChatBot Using Dialogue Flow - Flutter](https://github.com/Tarunika-R/dialogflow_chatbot)
+
+### 📚 Projects I've Contributed To
+- [Personality Prediction - Psychology](https://github.com/Tarunika-R/Personality-Prediction-Psychology)
+
+### 📞 Get in Touch
+- Email: [tarunika.r.2003@gmail.com](mailto:tarunika.r.2003@gmail.com)
+
+### 🌟 What I Enjoy
+- Check out my art on [Instagram](https://www.instagram.com/artsick03)
+
+### 🔮 Looking Ahead
+- [My Future Aspirations](https://drive.google.com/file/d/1txnq5XdQ2DroGUqgiaYAteEm5WTsgjp8/view?usp=sharing)
+
+### 🤹‍♂️ Fun Tidbits About Me
+- **I think my paintbrush has more personality than some people I know! 🎨**
+
+---
+
+### 🤝 Connect with Me:
+<p align="center">
+  <a href="https://twitter.com/rtarunika53655" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/tarunikar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/taru_0303/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://dribbble.com/taru_0303/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/tarunika_r/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/tarunika_03/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="center">
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/></a>
+  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunika-r&show_icons=true&theme=dark&bg_color=222222&title_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunika-r&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=222222&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunika-r&theme=dark&background=222222&stroke=00FFFF&ring=00FFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="Streak Stats" />
+</p>
