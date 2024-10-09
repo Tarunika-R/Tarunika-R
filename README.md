@@ -11,6 +11,75 @@
   </a> 
 </p>
 
+<h2 align="center">🏅 GitHub Grades</h2>
+
+<div align="center">
+  <a href="https://github.com/tarunika-r">
+    <img src="https://img.shields.io/badge/GitHub-Account-blue?style=for-the-badge&logo=github" alt="GitHub Account" />
+  </a>
+</div>
+
+<table align="center">
+  <tr>
+    <th>📈 Commits</th>
+    <th>⭐ Stars</th>
+    <th>🔁 Pull Requests</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tarunika-r">
+        <img src="https://img.shields.io/badge/Grade-A-green?style=for-the-badge&logo=git" alt="Commits Grade" />
+        <br /> 
+        <small>Commit Grade</small>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tarunika-r">
+        <img src="https://img.shields.io/badge/Grade-B+-yellow?style=for-the-badge&logo=star" alt="Stars Grade" />
+        <br /> 
+        <small>Star Grade</small>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tarunika-r/pulls">
+        <img src="https://img.shields.io/badge/Grade-A-red?style=for-the-badge&logo=git-pull-request" alt="Pull Requests Grade" />
+        <br /> 
+        <small>Pull Requests Grade</small>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <th>👥 Followers</th>
+    <th>🛠 Issues</th>
+    <th>📊 Experience</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/tarunika-r">
+        <img src="https://img.shields.io/badge/Grade-B-blue?style=for-the-badge&logo=github" alt="Followers Grade" />
+        <br /> 
+        <small>Follower Grade</small>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tarunika-r/issues">
+        <img src="https://img.shields.io/badge/Grade-A+-green?style=for-the-badge&logo=issue-tracker" alt="Issues Grade" />
+        <br /> 
+        <small>Issues Grade</small>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tarunika-r">
+        <img src="https://img.shields.io/badge/Grade-A-purple?style=for-the-badge&logo=github" alt="Experience Grade" />
+        <br /> 
+        <small>Experience Grade</small>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ### 🛠️ My Latest Creations
