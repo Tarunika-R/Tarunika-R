@@ -4,13 +4,13 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tarunika-r&label=Profile%20views&color=00FFFF&style=flat" alt="tarunika-r" /> 
 </p>
-
+<!--
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tarunika-r" alt="tarunika-r" />
   </a> 
 </p>
-
+-->
 <h2 align="center">🏅 GitHub Grades</h2>
 
 <div align="center">
@@ -19,65 +19,33 @@
   </a>
 </div>
 
-<table align="center">
-  <tr>
-    <th>📈 Commits</th>
-    <th>⭐ Stars</th>
-    <th>🔁 Pull Requests</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/tarunika-r">
-        <img src="https://img.shields.io/badge/Grade-A-green?style=for-the-badge&logo=git" alt="Commits Grade" />
-        <br /> 
-        <small>Commit Grade</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tarunika-r">
-        <img src="https://img.shields.io/badge/Grade-B+-yellow?style=for-the-badge&logo=star" alt="Stars Grade" />
-        <br /> 
-        <small>Star Grade</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tarunika-r/pulls">
-        <img src="https://img.shields.io/badge/Grade-A-red?style=for-the-badge&logo=git-pull-request" alt="Pull Requests Grade" />
-        <br /> 
-        <small>Pull Requests Grade</small>
-      </a>
-    </td>
-  </tr>
+<div align="center">
+  <a href="https://github.com/tarunika-r">
+    <img src="https://img.shields.io/badge/Commits-Grade_A-green?style=for-the-badge&logo=git" alt="Commits Grade" />
+  </a>
+  
+  <a href="https://github.com/tarunika-r?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-Grade_B+-yellow?style=for-the-badge&logo=star" alt="Stars Grade" />
+  </a>
+  
+  <a href="https://github.com/tarunika-r/pulls">
+    <img src="https://img.shields.io/badge/Pull_Requests-Grade_A-red?style=for-the-badge&logo=git-pull-request" alt="Pull Requests Grade" />
+  </a>
+  
+  <a href="https://github.com/tarunika-r?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-Grade_B-blue?style=for-the-badge&logo=github" alt="Followers Grade" />
+  </a>
+  
+  <a href="https://github.com/tarunika-r/issues">
+    <img src="https://img.shields.io/badge/Issues-Grade_A+-green?style=for-the-badge&logo=issue-tracker" alt="Issues Grade" />
+  </a>
+  
+  <a href="https://github.com/tarunika-r">
+    <img src="https://img.shields.io/badge/Experience-Grade_A-purple?style=for-the-badge&logo=github" alt="Experience Grade" />
+  </a>
+</div>
 
-  <tr>
-    <th>👥 Followers</th>
-    <th>🛠 Issues</th>
-    <th>📊 Experience</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/tarunika-r">
-        <img src="https://img.shields.io/badge/Grade-B-blue?style=for-the-badge&logo=github" alt="Followers Grade" />
-        <br /> 
-        <small>Follower Grade</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tarunika-r/issues">
-        <img src="https://img.shields.io/badge/Grade-A+-green?style=for-the-badge&logo=issue-tracker" alt="Issues Grade" />
-        <br /> 
-        <small>Issues Grade</small>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tarunika-r">
-        <img src="https://img.shields.io/badge/Grade-A-purple?style=for-the-badge&logo=github" alt="Experience Grade" />
-        <br /> 
-        <small>Experience Grade</small>
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 
 ---
