@@ -1,10 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Tarunika</h1>
 <h3 align="center">Creatively expressing my passion for technology</h3>
-
+<!--
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tarunika-r&label=Profile%20views&color=00FFFF&style=flat" alt="tarunika-r" /> 
 </p>
-<!--
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tarunika-r" alt="tarunika-r" />
