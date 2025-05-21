@@ -113,6 +113,16 @@
 
 ---
 
+### 🧠 LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/tarunika_r?theme=dark&ext=heatmap)
+
+### 💻 HackerRank Activity
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/taru253)
+
+---
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tarunika-r&show_icons=true&theme=dark&bg_color=222222&title_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" />
