@@ -114,9 +114,12 @@
 ---
 
 ### 🧠 LeetCode Progress
-
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/tarunika_r?ext=heatmap)](https://leetcode.com/tarunika_r/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/tarunika_r?theme=dark&ext=activity)
 <!--
+![Problems Solved](https://img.shields.io/badge/LeetCode_Problems_Solved-230-orange?style=for-the-badge&logo=leetcode)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/tarunika_r?ext=heatmap)](https://leetcode.com/tarunika_r/)
+
+
 ### 💻 HackerRank Activity
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/taru253)
