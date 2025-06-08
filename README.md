@@ -53,7 +53,7 @@
 - [ChatBot Using Dialogue Flow - Flutter](https://github.com/Tarunika-R/dialogflow_chatbot)
 
 ### 📚 Projects I've Contributed To
-- [Personality Prediction - In Psychology](https://github.com/Tarunika-R/Personality-Prediction-Psychology)
+- [Personality Prediction - Psychology](https://github.com/Tarunika-R/Personality-Prediction-Psychology)
 
 ### 📞 Get in Touch
 - Email: [tarunika.r.2003@gmail.com](mailto:tarunika.r.2003@gmail.com)
